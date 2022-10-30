@@ -472,6 +472,20 @@ a
     max-width: 170%;
     max-height: 150%;
 }
+.product-tumb3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    padding: 50px;
+    background: #f0f0f0;
+}
+.product-tumb3 img{
+    max-width: 170%;
+    max-height: 150%;
+    position: relative;
+    bottom: -20px;
+}
 
 .product-details {
     padding: 30px;
