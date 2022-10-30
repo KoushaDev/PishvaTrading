@@ -483,7 +483,8 @@ a
 .product-tumb3 img{
     max-width: 170%;
     max-height: 150%;
-    bottom: -100px;
+    position: relative;
+    top: 100px;
 }
 
 .product-details {
