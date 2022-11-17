@@ -508,6 +508,9 @@ a
     text-decoration: none;
     transition: 0.3s;
 }
+.product-details h4{
+    color: #001f3f;
+}
 
 .product-details h4 a:hover {
     color: #3c99dc;
